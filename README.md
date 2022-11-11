@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Erick mas me chamam de "smile".
 - 👀 Adoro dar uma boa lida em várias coisas tanto sobre tecnologia quanto livros sobre outros temas, para sempre obter conhecimento.
-- 🌱 No momento estou estudando sobre JavaScript para conseguir ir para algum framework para poder testar ao máximo o que aprendi até agora e até lá.
+- 🌱 No momento estou estudando sobre JavaScript para conseguir ir para algum framework para poder testar ao máximo o que aprendi por agora e até lá.
 - 💞️ I’m looking to collaborate on ...
 - 📫 email de contato: erickc.contato@gmail.com
 
