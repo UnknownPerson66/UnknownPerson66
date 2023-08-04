@@ -10,7 +10,7 @@ Eu sou um desenvolvedor Front-end, que gosta de aprender coisas novas.
 [![e-mail](https://img.shields.io/badge/email-d63c3c?style=for-the-badge&logo=ko-fi&logoColor=white)](erickc.contato@gmail.com)
 
 ## O que estou fazendo no momento
-🚀 Atualmente estou procurando uma oportunidade de entrar no mercado de trabalho.
+🚀 Atualmente estou procurando uma oportunidade para entrar no mercado de trabalho.
 
 🧠 Estou aprimorando meus conhecimentos em design usando Figma, meu CSS e ReactJS.
 
