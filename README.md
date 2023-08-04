@@ -1,19 +1,25 @@
-- 👀 Adoro dar uma boa lida em várias coisas tanto sobre tecnologia quanto livros sobre outros temas, para sempre obter conhecimento.
-- 🌱 No momento estou estudando sobre JavaScript para conseguir ir para algum framework para poder testar ao máximo o que aprendi por agora e até lá.
-- 💞️ I’m looking to collaborate on ...
+
+# Olá, Bem-vindos ao meu Github! 👋
 
 
+## 😀 Sobre mim
+Eu sou um desenvolvedor Front-end, que gosta de aprender coisas novas.
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://erickportifolio.netlify.app)
+[![e-mail](https://img.shields.io/badge/email-d63c3c?style=for-the-badge&logo=ko-fi&logoColor=white)](erickc.contato@gmail.com)
 
+## O que estou fazendo no momento
+🚀 Atualmente estou procurando uma oportunidade de entrar no mercado de trabalho.
 
-O que eu uso no meu dia a dia: 
- 
+🧠 Estou aprimorando meus conhecimentos em design usando Figma, meu CSS e ReactJS.
 
+## 🛠 Habilidades
+ReactJS, Javascript, HTML, CSS, SCSS, NodeJS;
 
-
-
-
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/46661756/195254175-0a0eeb29-1d2c-4050-85bf-dc285d93d4a5.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/46661756/195254335-e0ec2ba4-b7e8-452a-a81e-d49c9c55093a.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145](https://user-images.githubusercontent.com/46661756/195254354-4eb30299-9f67-4e15-a68b-9ffc754b41a1.svg)
+<a href="https://github.com/UnknownPerson66/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=UnknownPerson66&theme=dracula&title_color=fff" />
+</a>
+<a href="https://github.com/UnknownPerson66/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UnknownPerson66&layout=compact&langs_count=8&theme=dracula&title_color=fff&card_width=320" />
+</a>
