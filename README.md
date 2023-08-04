@@ -17,9 +17,6 @@ Eu sou um desenvolvedor Front-end, que gosta de aprender coisas novas.
 ## 🛠 Habilidades
 ReactJS, Javascript, HTML, CSS, SCSS, NodeJS;
 
-<a href="https://github.com/UnknownPerson66/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=UnknownPerson66&theme=dracula&title_color=fff" />
-</a>
 <a href="https://github.com/UnknownPerson66/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UnknownPerson66&layout=compact&langs_count=8&theme=dracula&title_color=fff&card_width=320" />
 </a>
