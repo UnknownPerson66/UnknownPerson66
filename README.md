@@ -12,7 +12,7 @@ Eu sou um desenvolvedor Front-end, que gosta de aprender coisas novas.
 ## O que estou fazendo no momento
 🚀 Atualmente estou procurando uma oportunidade para entrar no mercado de trabalho.
 
-🧠 Estou aprimorando meus conhecimentos em design usando Figma, meu CSS e ReactJS.
+🧠 Estou aprimorando meus conhecimentos em design usando Figma.
 
 ## 🛠 Habilidades
 ReactJS, Javascript, HTML, CSS, SCSS, NodeJS;
